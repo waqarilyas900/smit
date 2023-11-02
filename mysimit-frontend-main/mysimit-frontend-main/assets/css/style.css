@@ -1,0 +1,116 @@
+h1,
+h2,
+h3,
+h5,
+.banner__text p span {
+  font-family: "Eight One";
+}
+
+.banner__text p span {
+  font-size: 61px !important;
+}
+
+.banner p {
+  font-family: "Eight One";
+  font-size: 48px;
+  color: #000;
+}
+.text-primary-500 {
+  color: #000 !important;
+  transition: all.5s;
+}
+.text-primary-500:hover {
+  background: #000;
+  color: #fff !important;
+}
+.bg-primary-500 {
+  background-color: #000 !important;
+}
+input:focus:not(.payment-buttons input:focus,input[type="radio"]),
+textarea:focus {
+  outline: 1px solid #000 !important;
+  border: unset !important;
+}
+.payment-buttons input:checked {
+  accent-color: black;
+}
+.products-wrapper > div {
+  max-width: 20%;
+}
+.zone-modal-datepicker .vdp-datepicker input[type="text"] {
+  width: 100%;
+  padding: 8px 17px;
+  margin-bottom: 14px;
+  border-radius: 3px;
+}
+.vdp-datepicker__calendar .cell.selected {
+  background: #000 !important;
+  color: #fff !important;
+}
+.vdp-datepicker__calendar .cell:not(.blank):not(.disabled).day:hover, .vdp-datepicker__calendar .cell:not(.blank):not(.disabled).month:hover, .vdp-datepicker__calendar .cell:not(.blank):not(.disabled).year:hover {
+  border: 1px solid #000 !important;
+}
+.checkout-datepicker  .vdp-datepicker  input,.vue-timepicker-checkout input{
+  padding: 0px 40px !important;
+  background: #f9fafb;
+  border-radius: 9px;
+  display: block;
+  height: 45px !important;
+  border: 1px solid #d1d5db;
+  width: 100% !important;
+}
+.vue-timepicker-checkout span{
+   width: 100% !important;
+}
+.vue__time-picker .dropdown ul li:not([disabled]).active, .vue__time-picker .dropdown ul li:not([disabled]).active:hover, .vue__time-picker .dropdown ul li:not([disabled]).active:focus, .vue__time-picker-dropdown ul li:not([disabled]).active, .vue__time-picker-dropdown ul li:not([disabled]).active:hover, .vue__time-picker-dropdown ul li:not([disabled]).active:focus {
+  background: #000 !important;
+  color: #fff;
+}
+.vue__time-picker .dropdown ul li:not(.hint):not([disabled]):hover, .vue__time-picker .dropdown ul li:not(.hint):not([disabled]):focus, .vue__time-picker-dropdown ul li:not(.hint):not([disabled]):hover, .vue__time-picker-dropdown ul li:not(.hint):not([disabled]):focus {
+  background: rgb(0 0 0) !important;
+  color: #ffffff !important;
+}
+
+[dir="rtl"] .account_wrap {
+  flex-direction: row-reverse !important;
+}
+.multiselect__option--highlight {
+  background: #000 !important;
+  outline: none;
+  color: #fff;
+}
+.multiselect__tags {
+  border-color: rgba(209, 213, 219, var(--tw-border-opacity)) !important;
+}
+.modal-timepicker .vue__time-picker input, .vue__time-picker{
+  width: 100% !important;
+}
+.modal-timepicker .vue__time-picker input.display-time{
+  height: 2.4em !important;
+  border-radius: 4px;
+}
+.datepicker-icon{
+  z-index: 9;
+  padding-top: 10px;
+}
+.date-picker-model input[type="text"] {
+  padding-left: 40px !important;
+  padding-top: 10px !important;
+}
+/* .zone-modal-datepicker .multiselect__tags{
+  border-radius: unset !important;
+} */
+.cart-multiselect .multiselect .multiselect__tags {
+  border: 1px solid #000 !important;
+  color: #000 !important;
+}
+.cart-multiselect .multiselect .multiselect__placeholder,.cart-multiselect .multiselect__single {
+  color: #000;
+  font-weight: 600;
+  font-size: 16px;
+}
+.cart-multiselect .multiselect .multiselect__select:before {
+  top: 74% !important;
+  color: #000 !important;
+  border-color: #000 transparent transparent;
+}

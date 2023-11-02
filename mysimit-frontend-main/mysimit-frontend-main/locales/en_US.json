@@ -1,0 +1,203 @@
+{
+  "header" : {
+    "menu" : {
+        "home" : "Home",
+        "about" : "About",
+        "contact_us" : "Contact Us",
+        "product" : "Product",
+        "sign_in":"Sign In",
+        "sign_up":"Sign Up",
+        "logout":"LOGOUT",
+        "my_profile":"MY PROFILE"
+    }
+  },
+  "category_section" : {
+    "title" : "our categories"
+  },
+  "discount_section" : {
+    "title" : "Discount Deals",
+    "discount_10":"10% Discount",
+    "discount_20":"20% Discount",
+    "discount_30":"30% Discount",
+    "discount_40":"40% Discount",
+    "discount_50":"50% Discount",
+    "discount_60":"60% Discount"
+  },
+  "home" : {
+    "hero" : {
+        "title" : "Some title",
+        "content" : "Some content",
+        "explore" : "Explore Now"
+    }
+  },
+  "footer":{
+    "box1":{
+      "title":"ABOUT THE SHOP",
+      "content":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,"
+    },
+    "box2":{
+      "title":"PRODUCTS",
+      "menu":[
+        {
+          "to":"/",
+          "name":"Breads"
+        },
+        {
+          "to":"/",
+          "name":"Cupcakes"
+        },
+        {
+          "to":"/",
+          "name":"Pancakes"
+        },
+        {
+          "to":"/",
+          "name":"Donuts"
+        },
+        {
+          "to":"/",
+          "name":"Dates"
+        },
+        {
+          "to":"/",
+          "name":"Coffee"
+        }
+      ]
+    },
+    "box3":{
+      "title":"CUSTOMER SERVICES",
+      "menu":[
+        {
+          "to":"/",
+          "name":"contact Us"
+        },
+        {
+          "to":"/",
+          "name":"All Products"
+        }
+      ]
+    },
+    "box4":{
+      "title4":"OUR SOCIALS"
+    }
+  },
+  "about_us":{
+    "title":"About Us",
+    "breacrum_home":"Home",
+    "breacrum_about":"About Us",
+    "content":"Founded in 2020, the philosophy of Layers Bakeshop was simple; to create connections through desserts while striking the ideal balance between flavor and feeling. Since the beginning, Layers has secured an irreplaceable spot in the hearts of people. Being the quintessential representation of aesthetics and taste, a Layers dessert is consumed by the eyes well before delighting the tastebuds! Since the beginning, Layers has secured an irreplaceable spot in the hearts of people. Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus alias dolores velit eaque tenetur repudiandae quasi perferendis in quod dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus alias dolores velit eaque tenetur repudiandae quasi perferendis in quod dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus alias dolores velit eaque tenetur repudiandae quasi perferendis in quod dignissimos.",
+    "frequently_asked_questions":"Frequently Asked Questions",
+    "questions_subtitle":"Here you’ll be able find answers your questions"
+  },
+  "why_choose_us":{
+    "title":"Why Choose Us",
+    "description":"The love for MY SIMIT has only blossomed with time. Our dream to bake te the best desserts in town continues to flourish",
+    "menu":[
+      {
+        "title":"Fresh",
+        "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "icon":"http://192.168.0.109:8000/storage/784/icon-1.png"
+      },
+      {
+        "title":"Organic",
+        "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "icon":"http://192.168.0.109:8000/storage/782/icon-2.png"
+      },
+      {
+        "title":"no pesticide",
+        "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "icon":"http://192.168.0.109:8000/storage/781/icon-3.png"
+      }
+    ]
+  },
+
+  "contactus":{
+    "title":"Contact Us",
+    "breacrum_home":"Home",
+    "breacrum_contact_us":"Contact Us",
+    "contact_information":"Contact Information",
+    "office_address":"office address",
+    "phone":"Phone",
+    "email_address":"email address",
+    "send_us_a_message":"Send Us A Message"
+  },
+
+  "placeholder":{
+    "your_name":"Your Name",
+    "your_email":"Your Email",
+    "subject":"Subject",
+    "your_query":"Your Query",
+    "submit_button":"SUBMIT MESSAGE"
+  },
+
+  "shop":{
+    "shop":"Shop",
+    "home":"Home",
+    "product":"Product"
+  },
+
+  "checkout":{
+    "title":"checkout",
+    "breacrum_home":"Home",
+    "breacrum_cart":"cart",
+    "breacrum_checkout":"checkout",
+    "personalinformation":"Personal Information",
+    "phone":"Phone",
+    "email":"Email",
+    "firstname":"First Name",
+    "deliveryaddress":"Delivery Address",
+    "area":"Area",
+    "block":"Block",
+    "street":"Street",
+    "avanue":"Avenue",
+    "house_building":"House / Building",
+    "apartment":"Floor / Apartment Number",
+    "additional_detail":"Additional detail",
+    "schedule_your_order":"Schedule Your Order",
+    "payment_method":"Payment Method",
+    "read1":"I have read the",
+    "read3":"terms and conditions",
+    "read2":"and agree with them.",
+    "cehckout":"CHECK OUT",
+    "number_error":"This number already has an account! Please Sign In.",
+    "cod": "Cash on delivery"
+  },
+
+  "cart":{
+    "view_cart" : "VIEW CART",
+    "product":"Product",
+    "name":"Name",
+    "price":"Price",
+    "quantity":"Quantity",
+    "total":"Total",
+    "remove":"Remove",
+    "delivery":"Delivery",
+    "pickup":"Pickup",
+    "delivery_charges":"Delivery Charges",
+    "carttotal":"Cart Total",
+    "guest":"Guest Checkout",
+    "Proceedtocheckout":"Proceed To Checkout",
+    "cartdetails":"Cart Details",
+    "cartitems":"Cart Items",
+    "empty":"Your cart is Empty",
+    "more_error":"You have to add more than KD {price} to place the order.",
+    "cart_total":"Cart Total",
+    "addon":"Addons"
+  },
+
+  "productDetail":{
+    "relatedProduct":"Related Product",
+    "addtocart":"ADD TO CART",
+    "description":"Description",
+    "flavour":"Choose multiple flavours",
+    "wrapping":"Want gift wrapping?",
+    "yes":"Yes",
+    "no":"No",
+    "vanilla": "Vanilla",
+    "strawberry":"Strawberry",
+    "choaclate":"Choaclate"
+  },
+
+  "message": "Hello! Welcome to your NuxtJS App"
+
+}
